@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://RafaPorto.github.io/sitemap.xml
+Sitemap: https://rafaporto.github.io/sitemap.xml
